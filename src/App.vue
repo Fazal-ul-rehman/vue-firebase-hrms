@@ -48,7 +48,7 @@ async function logout(){
         <div class="flex items-center gap-3">
           <span class="inline-flex h-10 w-44 items-center justify-center">
             <img src="/src/assets/logo/logoDark.png" alt="Logo" class="w-40 h-auto hidden dark:block" />
-          <img src="/src/assets/logo/logoLight.png" alt="Logo" class="w-40 h-auto block dark:hidden" />
+          <img src="/src/assets/logo/logoLight1.png" alt="Logo" class="w-40 h-auto block dark:hidden" />
         </span>
     
         </div>
