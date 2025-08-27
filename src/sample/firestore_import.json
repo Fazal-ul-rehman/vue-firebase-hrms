@@ -1,0 +1,43 @@
+{
+    "users": {
+      "seed-user-1": {
+        "name": "CEO User",
+        "email": "ceo@company.com",
+        "role": "CEO"
+      },
+      "seed-user-2": {
+        "name": "CFO User",
+        "email": "cfo@company.com",
+        "role": "CFO"
+      },
+      "seed-user-3": {
+        "name": "COO User",
+        "email": "coo@company.com",
+        "role": "COO"
+      },
+      "seed-user-4": {
+        "name": "Manager User",
+        "email": "manager@company.com",
+        "role": "Manager"
+      },
+      "seed-user-5": {
+        "name": "Employee One",
+        "email": "employee1@company.com",
+        "role": "Employee"
+      },
+      "seed-user-6": {
+        "name": "Employee Two",
+        "email": "employee2@company.com",
+        "role": "Employee"
+      },
+      "seed-user-7": {
+        "name": "Employee Three",
+        "email": "employee3@company.com",
+        "role": "Employee"
+      }
+    },
+    "tasks": {},
+    "attendance": {},
+    "notifications": {}
+  }
+  
